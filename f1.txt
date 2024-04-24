@@ -1,4 +1,4 @@
-bugun 3. hafta dersleri var
+bugun 3. hafta dersleri var.degisiklik yaptim
 emre-hmtl codu- bir buton olustu websitesinde
 emre -css codu- girisyap butonu yesil renk yaptim
 yeni veri girdim.
