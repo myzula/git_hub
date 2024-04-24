@@ -2,4 +2,4 @@ bugun 3. hafta dersleri var
 emre-hmtl codu- bir buton olustu websitesinde
 emre -css codu- girisyap butonu yesil renk yaptim
 yeni veri girdim.
-
+kenancim bu is nasil olucak dermisim
